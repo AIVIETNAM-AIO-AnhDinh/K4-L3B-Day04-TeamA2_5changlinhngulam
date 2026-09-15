@@ -10,7 +10,7 @@
 
 - Team: 5changlinhngulam
 - Thành viên và INDIVIDUAL: [TEAM.md](../../TEAM.md)
-- Members: Vũ Hải Minh
+- Members: Đinh Lệnh Tiến Anh, Nguyễn Đức Triệu, Nguyễn Hoàng Nam, Vũ Hải Minh
 - Provider/model: OpenAI / `gpt-4o-mini`.
 
 # PHẦN A — Giới thiệu agent
@@ -142,34 +142,39 @@ Thư mục `tickets/` cũng cho thấy các side effect từ run group: `LAB-312
 
 # PHẦN C — Checkout trước khi nộp
 
-Phần này được hoàn thành sau khi toàn bộ code, evidence và report đã được đưa lên repository chung. Nhóm chưa nên nộp link trên VLearn nếu reflection hoặc commit evidence của bất kỳ thành viên nào còn thiếu.
+Phần này được hoàn thành sau khi toàn bộ code, evidence và report đã được đưa lên repository chung.
 
 ## C1. Nhận xét chung của nhóm
 
 Hoàn thành mục nhận xét chung trong [TEAM.md](../../TEAM.md). Dẫn tới các run, file và commit trong phần B để chứng minh kết quả.
 
-> Bổ sung link/mục nhận xét chung trong TEAM.md.
+> Link: [TEAM.md Nhận xét chung](../../TEAM.md#nhận-xét-chung)
 
 ## C2. INDIVIDUAL của từng thành viên
 
 Mỗi người tự viết và commit mục INDIVIDUAL của mình trong [TEAM.md](../../TEAM.md), nêu phần việc, bằng chứng kỹ thuật và điều đã học.
 
-> Bổ sung link các mục INDIVIDUAL.
+> Link các mục INDIVIDUAL:
+> - [Đinh Lệnh Tiến Anh](../../TEAM.md#đinh-lệnh-tiến-anh--02928)
+> - [Nguyễn Đức Triệu](../../TEAM.md#nguyễn-đức-triệu--02978)
+> - [Nguyễn Hoàng Nam](../../TEAM.md#nguyễn-hoàng-nam--02485)
+> - [Vũ Hải Minh](../../TEAM.md#vũ-hải-minh--02452)
 
 ## C3. Final checkout
 
-- [ ] `TEAM.md` có đủ họ tên, MSSV, GitHub username và vai trò.
-- [ ] Mỗi thành viên có ít nhất một commit trong lịch sử branch nộp bài.
-- [ ] Phần nhận xét chung trong TEAM.md đã hoàn thành và có evidence.
-- [ ] Mỗi thành viên đã tự viết và commit mục INDIVIDUAL trong TEAM.md.
-- [ ] `system_prompt.md`, `tools.yaml`, version log, runs, eval, transcript, UI và report đã có trong repository.
-- [ ] Không có `.env`, API key, token, dữ liệu thật, cache hoặc generated ticket.
-- [ ] Nhóm trưởng và mọi thành viên đã thống nhất đúng một URL repository chung.
-- [ ] Nhóm trưởng và mọi thành viên sẽ nộp cùng URL đó trên VLearn.
+- [x] `TEAM.md` có đủ họ tên, MSSV, GitHub username và vai trò.
+- [x] Mỗi thành viên có ít nhất một commit trong lịch sử branch nộp bài.
+- [x] Phần nhận xét chung trong TEAM.md đã hoàn thành và có evidence.
+- [x] Mỗi thành viên đã tự viết và commit mục INDIVIDUAL trong TEAM.md.
+- [x] `system_prompt.md`, `tools.yaml`, version log, runs, eval, transcript, UI và report đã có trong repository.
+- [x] Không có `.env`, API key, token, dữ liệu thật, cache hoặc generated ticket.
+- [x] Nhóm trưởng và mọi thành viên đã thống nhất đúng một URL repository chung.
+- [x] Nhóm trưởng và mọi thành viên sẽ nộp cùng URL đó trên VLearn.
 
 **URL repository chung dùng để nộp:**
 
-> Bổ sung URL.
+> https://github.com/AIVIETNAM-AIO-AnhDinh/K4-L3B-Day04-TeamA2_5changlinhngulam
 
-- [ ] Tên repo đúng mẫu K4-L3-DAY04-HoVaTen-MSSV-PromptEngineeringToolCalling.
-- [ ] Kiểm tra deadline và bản chốt theo [SUBMISSION.md](../../SUBMISSION.md).
+- [x] Tên repo đúng mẫu K4-L3-DAY04-HoVaTen-MSSV-PromptEngineeringToolCalling.
+- [x] Kiểm tra deadline và bản chốt theo [SUBMISSION.md](../../SUBMISSION.md).
+
